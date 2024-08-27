@@ -25,7 +25,7 @@
         <mxCell id="wx5J87My5ah0jjZbc_Q6-5" value="Melihat Produk" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wx5J87My5ah0jjZbc_Q6-7" value="Memesan Produk" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wx5J87My5ah0jjZbc_Q6-7" value="Membeli Produk" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wx5J87My5ah0jjZbc_Q6-10" value="&lt;p style=&quot;line-height: 120%; font-size: 35px;&quot;&gt;Alur Bisnis Perusahaan&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;" vertex="1" parent="1">
